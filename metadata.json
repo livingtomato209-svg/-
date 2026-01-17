@@ -1,0 +1,5 @@
+{
+  "name": "Mr. Robot: Physical Access",
+  "description": "A text-adventure and hacking simulator where you physically breach a facility to plant a hardware backdoor.",
+  "requestFramePermissions": []
+}
